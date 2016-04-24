@@ -1,8 +1,9 @@
 ---
 layout: post
 Title:  "Nicer font rendering in GNOME Web/Epiphany"
-date:   2016-04-25 00:00:01 +0100
-categories: jekyll update fedora
+published:   2016-04-25 00:56:00 +0100
+categories: jekyll update
+tags: [gnome, fonts, linux]
 ---
 
 If you've gotten tired of the massive memory consumption of big browsers or simply don't need your browser to do a whole lot except show web pages, you may have tried GNOME Web (the browser formerly known as Epiphany).
