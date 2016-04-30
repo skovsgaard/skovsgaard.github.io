@@ -1,6 +1,6 @@
 ---
 layout: post
-Title:  "TEST POST PLEASE IGNORE!"
+title:  "TEST POST PLEASE IGNORE!"
 date:   2016-03-15 22:03:21 +0100
 categories: jekyll update
 ---

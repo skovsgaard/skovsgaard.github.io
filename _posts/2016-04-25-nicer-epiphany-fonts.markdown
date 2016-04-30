@@ -1,7 +1,7 @@
 ---
 layout: post
-Title:  "Nicer font rendering in GNOME Web/Epiphany"
-published:   2016-04-25 00:56:00 +0100
+title:  "Nicer font rendering in GNOME Web/Epiphany"
+date:   2016-04-25 00:56:00 +0100
 categories: jekyll update
 tags: [gnome, fonts, linux]
 ---
