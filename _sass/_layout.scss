@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -98,7 +98,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -111,6 +111,14 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+    > li {
+      display: inline-block;
+
+      :nth-child(2) {
+	margin-right: 20px;
+      }
+    }
 }
 
 .footer-col-wrapper {
@@ -243,5 +251,6 @@
 
 /* RSS notice */
 .rss-subscribe {
+  padding-top: 2px;
   font-size: 0.8em;
 }
